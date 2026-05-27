@@ -35,14 +35,24 @@ This utility was deliberately engineered as a lightweight, zero-maintenance, hig
 
 ---
 
-## 🗺️ Product Roadmap (Future Scope)
+## 🗺️ Product Roadmap & Community Challenge 🚀
 
-While this MVP covers the core foundational breakdown points of layout physics, future versions aim to tackle:
+The foundational modules of this MVP cover the absolute biggest pain points of beginner layout physics. However, this is just the beginning. 
+
+### 📢 The "Entire CSS Class" Challenge:
+**If this project gains traction, hits steady daily usage, or if anyone opens an issue, comments, or pings me asking for more modules—I will expand this sandbox to bring an ENTIRE interactive CSS curriculum right HERE.**
+
+Until then, upcoming standard roadmap items include:
 - [ ] **Modern Layout Engines:** Deep dive sandboxes for CSS Flexbox alignment physics and CSS Grid structural layouts.
 - [ ] **Responsive Web Design:** Interactive viewport scalers demonstrating `px` vs. `rem`/`em` and fluid viewport units (`vw`/`vh`).
-- [ ] **The Cascade & Specificity:** A visual selector weight calculator mapping out inheritance conflicts (.class vs #id).
+- [ ] **Typography, Styling & Effects:** Real-time visualizers for line-height spacing, variable font weights, multi-layered box shadows, and linear/radial gradients.
+- [ ] **Transitions & Animations:** Interactive configuration blocks for `@keyframes`, timing functions (`ease-in-out`, `cubic-bezier`), and 2D/3D transforms.
+- [ ] **The Cascade & Specificity:** A visual selector weight calculator mapping out inheritance conflicts (`.class` vs `#id` vs `!important`).
+
+Want a specific feature or CSS concept broken down visually? Open an issue or reach out! Let's build the ultimate educational tool together.
 
 ---
+
 
 ## 📄 License
 
