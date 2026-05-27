@@ -1,0 +1,6 @@
+{
+  "name": "CSS Layout Sandbox & Debugger",
+  "description": "An interactive, visual workbench for mastering the CSS Box Model, positioning vectors, and layout wrapping mechanics with side-by-side duels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
